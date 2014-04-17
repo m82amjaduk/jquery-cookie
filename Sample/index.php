@@ -10,7 +10,7 @@
     <script src="http://code.jquery.com/jquery-1.9.0.min.js"></script>
     <script src="http://code.jquery.com/qunit/qunit-1.10.0.js"></script>
 
-    <script src="jquery_cookie/jquery.cookie.js"></script>
+    <script src="js/jquery.cookie.js"></script>
 
 
     <style>
