@@ -1,4 +1,11 @@
-
+<?
+/**
+* Created by PhpStorm.
+* User: AMojumder
+* Date: 17/04/14
+* Time: 16:20
+*/
+?>
 
 <!doctype html>
 <html>
@@ -41,7 +48,7 @@
         { 'name' : 'Daniel', 'age' : 4 }
     );
     $.cookie("people", JSON.stringify(people));
-    var newPeople = $.cookie("people") ; //
+    var newPeople = $.cookie("people") ;
     $("body").html( newPeople);
     console.log(newPeople);
 </script>
